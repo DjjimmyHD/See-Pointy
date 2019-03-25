@@ -38,3 +38,7 @@ var person = new Person();
 person.Name = "james";
 person.Introduce();
 ```
+
+* If you use the `static` keyword you do *not* have to create a new object to access that object
+  * use `static` when only a single instance of that method needs to exist in memory
+  * this parent method can be referenced in memory when we need it in other objects
