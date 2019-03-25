@@ -1,5 +1,7 @@
 # Operators
 
+* PEMDAS still applies
+
 ## Arithmetic Operators
 
 * Standard math shit `++` and `--`
@@ -17,3 +19,5 @@
 * Same shit `&&`
 
 ## Bitwise Operators
+
+* `&` `|`
