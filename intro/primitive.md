@@ -88,3 +88,8 @@ Convert.ToInt32(s);
 Parse(s);
 ```
 
+## Primitive Types
+
+* All primitive types are structures
+
+* They are small and take no more than 8 bytes

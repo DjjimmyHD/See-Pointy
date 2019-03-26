@@ -37,13 +37,13 @@
 
 ## Overview of C#
 
-* CLR 
+* CLR
   * is common language run time
   * application that translates IL (intermediate language into Native Machine Code)
   * ^ this style is called Just in time Compilation
 
 * Built out of a series of classes
-  * Classes work together at run time to make an application 
+  * Classes work together at run time to make an application
 
 * Class
   * Class is made up of data (attributes) and methods (functions)
