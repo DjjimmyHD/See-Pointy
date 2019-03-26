@@ -9,20 +9,28 @@ Logically it should follow that the below example is true in C#
 let x = 2
 let y = x
     x = 3
-// y = 2
+
 console.log(y)
-// x = 3
+// y = 2
+
 console.log(x)
+// x = 3
 
 let person = {
   name : 'james'
 }
 
-let twin = {
+let dopple = {
   name : 'james'
 }
+
+let twin = person
+
+console.log(person === dopple)
 // false
-console.log(person === twin)
+
+console.log(twin === person)
+// true
 ```
 
 ## Value Types
@@ -55,4 +63,3 @@ console.log(person === twin)
 
 * Removed by CLR `garbage collection`
   * removes all unused objects
-
