@@ -26,6 +26,8 @@ int[] numbers = new int[3];
 
 ## Initializing Arrays
 
+* **Arrays values will default to the default of value of that data type if they are not specifically declared when created**
+
 * First we need to specify the value type the array will contain
   * `int`, `char`, `bool` etc
 
