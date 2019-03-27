@@ -14,6 +14,10 @@
 
 * Arrays are 0 indexed
 
+* Two types of arrays
+  * Single Dimension
+  * Multi Dimension
+
 ## Declaring Arrays
 
 * Example:
