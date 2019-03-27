@@ -71,3 +71,17 @@ Console.WriteLine(numbers[0])
 ```
 
 * The code should print `1`
+
+## Useful methods on the Array class
+
+* Length
+
+* Clear()
+
+* Copy()
+
+* IndexOf()
+
+* Reverse()
+
+* Sort()
