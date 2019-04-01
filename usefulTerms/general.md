@@ -17,3 +17,17 @@
 
 * This is nifty but very nuanced, when you are creating a class method you have to make a lot of assumptions on how the method will be used
 could get messy. Predicting the future is hard.
+
+## Type Safety
+
+* Type safety in .NET has been introduced to prevent the objects of one type from peeking into the memory assigned for the other object.
+
+## UML
+
+* Unified Language Modeling
+
+* Used for modeling the architecture of software
+
+* Can be used as a blueprint for creating classes
+
+* Is a language so comes with its own rules and such and such
